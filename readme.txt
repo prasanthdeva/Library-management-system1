@@ -1,4 +1,4 @@
-you just need to create databses for all the tables and connect with any databses provider you like i am used Mysql
+you just need to create databses for all the tables and connect with any databses provider you like i am used MysqlDB
 
 !!!!!!!!!!!!
 1. login Db
